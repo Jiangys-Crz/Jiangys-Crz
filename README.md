@@ -9,11 +9,7 @@
 
 ### 关于我 / About
 
-你好，我是 **Jiangys**，就读于 **西华师范大学（China West Normal University）**。
-
-目前专注于**算法竞赛**，在训练与复盘中积累算法和数据结构的解题思路。也做一些 **Web 开发**，围绕校园组织与竞赛训练的实际需求，把想法做成网站和工具。
-
-> 用代码打磨思路，把想法做成可用的工具。
+西华师范大学在校生，目前专注算法竞赛，也做一些 Web 开发。项目主要围绕校园管理和竞赛训练，包括网站、QQ 机器人和线上监考系统。
 
 ### 代表项目 / Selected projects
 
@@ -23,7 +19,7 @@
 <sub>CAMPUS PLATFORM / 校园平台</sub>
 <h3><a href="https://github.com/Jiangys-Crz/paaweb">PAA Web ↗</a></h3>
 <p><strong>面向校园程序设计组织的管理平台</strong></p>
-<p>整合门户展示、比赛报名、队伍与训练管理、电子证书和练习统计，服务日常组织运营与竞赛活动。</p>
+<p>包含门户展示、比赛报名、队伍管理、训练管理、电子证书和练习统计等功能。</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>Spring Boot</code> <code>PostgreSQL</code></p>
 <p><a href="https://github.com/Jiangys-Crz/paaweb">浏览源码 →</a></p>
 </td>
@@ -31,10 +27,10 @@
 <sub>COMPETITIVE PROGRAMMING / 竞赛训练</sub>
 <h3><a href="https://github.com/Jiangys-Crz/xcpc-oj-contest-helper">CWNU XCPC Vp System ↗</a></h3>
 <p><strong>从线上组队到赛后补题的训练工具</strong></p>
-<p>支持多队虚拟赛、训练历史、队内虚拟打印与终端提交，将竞赛网站和日常训练流程连接起来。</p>
+<p>支持多队虚拟赛、训练历史、队内虚拟打印与终端提交。</p>
 <p><code>Python</code> <code>Next.js</code> <code>跨平台终端</code></p>
 <p><a href="https://github.com/Jiangys-Crz/xcpc-oj-contest-helper">浏览源码 →</a> &nbsp; <a href="https://vp.cwnupaa.com">访问网站 ↗</a></p>
-<p><sub>基于 <a href="https://github.com/thedyingkai/vp-helper">thedyingkai/vp-helper</a> 修改与扩展，感谢上游作者。</sub></p>
+<p><sub>基于 <a href="https://github.com/thedyingkai/vp-helper">thedyingkai/vp-helper</a> 修改与扩展。</sub></p>
 </td>
 </tr>
 </table>
@@ -48,7 +44,7 @@
 <p>集成 AI 对话、上下文与记忆、课表查询、天气和定时提醒，在网页中统一配置与管理。</p>
 <p><code>Node.js</code> <code>NapCat</code> <code>OneBot 11</code> <code>Docker</code></p>
 <p><a href="https://github.com/Jiangys-Crz/jiangysbot-public">浏览源码 →</a></p>
-<p><sub>使用 NapCat 提供的 OneBot 11 接口，感谢上游团队。</sub></p>
+<p><sub>基于 NapCat / OneBot 11。</sub></p>
 </td>
 <td width="50%" valign="top">
 <sub>CONTEST INFRASTRUCTURE / 竞赛基础设施</sub>
@@ -61,9 +57,7 @@
 </tr>
 </table>
 
-### 开源探索 / Open-source explorations
-
-围绕竞赛工具与出题平台学习和探索。以下仓库为 Fork，保留上游来源。
+### 其他项目 / More projects
 
 | 项目 | 方向 | 上游 |
 | :--- | :--- | :--- |
@@ -81,6 +75,5 @@
 ---
 
 <p align="center">
-欢迎交流算法竞赛、校园技术工具与 Web 开发。<br />
-<sub>持续学习，持续构建。欢迎通过 Issue / Pull Request 一起完善项目。</sub>
+欢迎交流算法竞赛与 Web 开发。
 </p>
