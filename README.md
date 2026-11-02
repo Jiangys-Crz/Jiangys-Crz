@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="CaoRongZhi — Algorithms × Web" />
+  <img src="./assets/header.svg" width="100%" alt="Jiangys — Algorithms × Web" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.cnblogs.com/zyihan-crz"><strong>技术博客 ↗</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Zyihan-Crz?tab=repositories"><strong>开源仓库 ↗</strong></a>
+  <a href="https://github.com/Jiangys-Crz?tab=repositories"><strong>开源仓库 ↗</strong></a>
   &nbsp;·&nbsp;
   <a href="https://vp.cwnupaa.com"><strong>XCPC 训练平台 ↗</strong></a>
 </p>
@@ -31,14 +31,14 @@
 <p><strong>面向校园程序设计组织的管理平台</strong></p>
 <p>把门户展示、比赛报名、队伍管理、训练管理与电子证书整合到一个平台，服务日常组织运营和竞赛活动。</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>Spring Boot</code> <code>PostgreSQL</code></p>
-<p><a href="https://github.com/Zyihan-Crz/paaweb"><strong>查看源码 →</strong></a></p>
+<p><a href="https://github.com/Jiangys-Crz/paaweb"><strong>查看源码 →</strong></a></p>
 </td>
 <td width="50%" valign="top">
 <h3>⚔️ CWNU XCPC Vp System</h3>
 <p><strong>从线上组队到赛后补题的训练工具</strong></p>
 <p>支持多队虚拟赛、训练历史、队内虚拟打印与终端提交，连接竞赛网站和日常训练流程。</p>
 <p><code>Python</code> <code>Next.js</code> <code>跨平台终端</code></p>
-<p><a href="https://github.com/Zyihan-Crz/xcpc-oj-contest-helper"><strong>查看源码 →</strong></a> &nbsp; <a href="https://vp.cwnupaa.com">访问网站 ↗</a></p>
+<p><a href="https://github.com/Jiangys-Crz/xcpc-oj-contest-helper"><strong>查看源码 →</strong></a> &nbsp; <a href="https://vp.cwnupaa.com">访问网站 ↗</a></p>
 <p><sub>基于 <a href="https://github.com/thedyingkai/vp-helper">thedyingkai/vp-helper</a> 修改与扩展，感谢上游作者。</sub></p>
 </td>
 </tr>
@@ -50,8 +50,8 @@
 
 | 项目 | 方向 | 上游 |
 | :--- | :--- | :--- |
-| [**ProblemForge**](https://github.com/Zyihan-Crz/ProblemForge) | 可自部署的 XCPC 出题工作台，涵盖题面、测试数据、判题与题包导出 | [pppolf/ProblemForge](https://github.com/pppolf/ProblemForge) |
-| [**vp-helper**](https://github.com/Zyihan-Crz/vp-helper) | Ubuntu 虚拟赛终端助手，支持 QOJ、Codeforces ICPC 与 Gym | [thedyingkai/vp-helper](https://github.com/thedyingkai/vp-helper) |
+| [**ProblemForge**](https://github.com/Jiangys-Crz/ProblemForge) | 可自部署的 XCPC 出题工作台，涵盖题面、测试数据、判题与题包导出 | [pppolf/ProblemForge](https://github.com/pppolf/ProblemForge) |
+| [**vp-helper**](https://github.com/Jiangys-Crz/vp-helper) | Ubuntu 虚拟赛终端助手，支持 QOJ、Codeforces ICPC 与 Gym | [thedyingkai/vp-helper](https://github.com/thedyingkai/vp-helper) |
 
 ## 🧰 技术与学习
 
