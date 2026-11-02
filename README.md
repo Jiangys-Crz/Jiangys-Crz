@@ -1,67 +1,86 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Jiangys — Algorithms × Web" />
+<img src="./assets/header.svg" width="100%" alt="Jiangys — Algorithms and Web Development" />
 </p>
 
+<p align="center"><strong>西华师范大学在校生 · 算法竞赛 · Web 开发</strong></p>
 <p align="center">
-  <strong>西华师范大学在校生 · 算法竞赛爱好者 · Web 开发实践者</strong>
-</p>
-<p align="center">
-  用代码打磨思路，把想法做成可用的工具。
-</p>
-<p align="center">
-  <a href="https://www.cnblogs.com/zyihan-crz"><strong>技术博客 ↗</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Jiangys-Crz?tab=repositories"><strong>开源仓库 ↗</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://vp.cwnupaa.com"><strong>XCPC 训练平台 ↗</strong></a>
+<a href="https://www.cnblogs.com/zyihan-crz">技术博客 ↗</a> &nbsp; / &nbsp; <a href="https://github.com/Jiangys-Crz?tab=repositories">开源仓库 ↗</a>
 </p>
 
-## 👋 关于我
+### 关于我 / About
 
-- 🎓 就读于 **西华师范大学（China West Normal University）**。
-- 🧩 目前专注于**算法竞赛**，持续学习算法与数据结构，在训练和复盘中积累解题思路。
-- 🛠️ 也做一些 **Web 开发**，围绕校园组织、竞赛训练等实际需求，尝试把想法落地成网站和工具。
+你好，我是 **Jiangys**，就读于 **西华师范大学（China West Normal University）**。
 
-## 🚀 代表项目
+目前专注于**算法竞赛**，在训练与复盘中积累算法和数据结构的解题思路。也做一些 **Web 开发**，围绕校园组织与竞赛训练的实际需求，把想法做成网站和工具。
+
+> 用代码打磨思路，把想法做成可用的工具。
+
+### 代表项目 / Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🏫 PAA Web</h3>
+<sub>CAMPUS PLATFORM / 校园平台</sub>
+<h3><a href="https://github.com/Jiangys-Crz/paaweb">PAA Web ↗</a></h3>
 <p><strong>面向校园程序设计组织的管理平台</strong></p>
-<p>把门户展示、比赛报名、队伍管理、训练管理与电子证书整合到一个平台，服务日常组织运营和竞赛活动。</p>
+<p>整合门户展示、比赛报名、队伍与训练管理、电子证书和练习统计，服务日常组织运营与竞赛活动。</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>Spring Boot</code> <code>PostgreSQL</code></p>
-<p><a href="https://github.com/Jiangys-Crz/paaweb"><strong>查看源码 →</strong></a></p>
+<p><a href="https://github.com/Jiangys-Crz/paaweb">浏览源码 →</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>⚔️ CWNU XCPC Vp System</h3>
+<sub>COMPETITIVE PROGRAMMING / 竞赛训练</sub>
+<h3><a href="https://github.com/Jiangys-Crz/xcpc-oj-contest-helper">CWNU XCPC Vp System ↗</a></h3>
 <p><strong>从线上组队到赛后补题的训练工具</strong></p>
-<p>支持多队虚拟赛、训练历史、队内虚拟打印与终端提交，连接竞赛网站和日常训练流程。</p>
+<p>支持多队虚拟赛、训练历史、队内虚拟打印与终端提交，将竞赛网站和日常训练流程连接起来。</p>
 <p><code>Python</code> <code>Next.js</code> <code>跨平台终端</code></p>
-<p><a href="https://github.com/Jiangys-Crz/xcpc-oj-contest-helper"><strong>查看源码 →</strong></a> &nbsp; <a href="https://vp.cwnupaa.com">访问网站 ↗</a></p>
+<p><a href="https://github.com/Jiangys-Crz/xcpc-oj-contest-helper">浏览源码 →</a> &nbsp; <a href="https://vp.cwnupaa.com">访问网站 ↗</a></p>
 <p><sub>基于 <a href="https://github.com/thedyingkai/vp-helper">thedyingkai/vp-helper</a> 修改与扩展，感谢上游作者。</sub></p>
 </td>
 </tr>
 </table>
 
-## 🌱 开源探索
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub>BOT &amp; AUTOMATION / 机器人与自动化</sub>
+<h3><a href="https://github.com/Jiangys-Crz/jiangysbot-public">JiangysBot ↗</a></h3>
+<p><strong>QQ 机器人与网页管理控制台</strong></p>
+<p>集成 AI 对话、上下文与记忆、课表查询、天气和定时提醒，在网页中统一配置与管理。</p>
+<p><code>Node.js</code> <code>NapCat</code> <code>OneBot 11</code> <code>Docker</code></p>
+<p><a href="https://github.com/Jiangys-Crz/jiangysbot-public">浏览源码 →</a></p>
+<p><sub>使用 NapCat 提供的 OneBot 11 接口，感谢上游团队。</sub></p>
+</td>
+<td width="50%" valign="top">
+<sub>CONTEST INFRASTRUCTURE / 竞赛基础设施</sub>
+<h3><a href="https://github.com/Jiangys-Crz/proctoring-system-public">Proctoring System ↗</a></h3>
+<p><strong>算法竞赛线上监考平台</strong></p>
+<p>包含管理后台、考生网页、Windows / macOS 桌面客户端与移动端，并提供 HydroOJ 评测桥接插件。</p>
+<p><code>Next.js</code> <code>Electron</code> <code>Prisma</code> <code>MySQL</code></p>
+<p><a href="https://github.com/Jiangys-Crz/proctoring-system-public">浏览源码 →</a></p>
+</td>
+</tr>
+</table>
 
-围绕竞赛工具与出题平台学习和探索，以下仓库为 Fork，保留上游来源。
+### 开源探索 / Open-source explorations
+
+围绕竞赛工具与出题平台学习和探索。以下仓库为 Fork，保留上游来源。
 
 | 项目 | 方向 | 上游 |
 | :--- | :--- | :--- |
 | [**ProblemForge**](https://github.com/Jiangys-Crz/ProblemForge) | 可自部署的 XCPC 出题工作台，涵盖题面、测试数据、判题与题包导出 | [pppolf/ProblemForge](https://github.com/pppolf/ProblemForge) |
 | [**vp-helper**](https://github.com/Jiangys-Crz/vp-helper) | Ubuntu 虚拟赛终端助手，支持 QOJ、Codeforces ICPC 与 Gym | [thedyingkai/vp-helper](https://github.com/thedyingkai/vp-helper) |
 
-## 🧰 技术与学习
+### 技术与学习 / Toolbox
 
-**竞赛训练** &nbsp; 算法与数据结构 · 解题复盘 · XCPC 训练  
-**Web 实践** &nbsp; TypeScript · React / Next.js · Java / Spring Boot · Python  
-**工程工具** &nbsp; PostgreSQL · Docker · Git · Linux
+| 方向 | 实践内容 |
+| :--- | :--- |
+| **算法竞赛** | 算法与数据结构 · 解题复盘 · XCPC 训练 |
+| **Web 开发** | TypeScript · React / Next.js · Java / Spring Boot · Python · Node.js |
+| **工程工具** | PostgreSQL · MySQL · Docker · Git · Linux |
 
 ---
 
 <p align="center">
-  欢迎交流算法竞赛、校园技术工具与 Web 开发。<br />
-  <sub>也欢迎通过 Issue / Pull Request 一起完善项目。持续学习，持续构建。</sub>
+欢迎交流算法竞赛、校园技术工具与 Web 开发。<br />
+<sub>持续学习，持续构建。欢迎通过 Issue / Pull Request 一起完善项目。</sub>
 </p>
